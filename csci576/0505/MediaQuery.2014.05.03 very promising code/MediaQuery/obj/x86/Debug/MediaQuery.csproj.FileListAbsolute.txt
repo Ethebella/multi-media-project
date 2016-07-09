@@ -1,0 +1,38 @@
+\\gsodata1\user\rlogsdon\data\visual studio 2010\Projects\MediaQuery\MediaQuery\obj\x86\Debug\MediaQuery.Form1.resources
+\\gsodata1\user\rlogsdon\data\visual studio 2010\Projects\MediaQuery\MediaQuery\obj\x86\Debug\MediaQuery.Properties.Resources.resources
+\\gsodata1\user\rlogsdon\data\visual studio 2010\Projects\MediaQuery\MediaQuery\obj\x86\Debug\MediaQuery.csproj.GenerateResource.Cache
+\\gsodata1\user\rlogsdon\data\visual studio 2010\Projects\MediaQuery\MediaQuery\bin\Debug\MediaQuery.exe
+\\gsodata1\user\rlogsdon\data\visual studio 2010\Projects\MediaQuery\MediaQuery\bin\Debug\MediaQuery.pdb
+\\gsodata1\user\rlogsdon\data\visual studio 2010\Projects\MediaQuery\MediaQuery\obj\x86\Debug\MediaQuery.exe
+\\gsodata1\user\rlogsdon\data\visual studio 2010\Projects\MediaQuery\MediaQuery\obj\x86\Debug\MediaQuery.pdb
+H:\Data\Visual Studio 2010\Projects\MediaQuery\MediaQuery\obj\x86\Debug\MediaQuery.exe
+H:\Data\Visual Studio 2010\Projects\MediaQuery\MediaQuery\obj\x86\Debug\MediaQuery.pdb
+H:\Data\Visual Studio 2010\Projects\MediaQuery\MediaQuery\bin\Debug\MediaQuery.exe
+H:\Data\Visual Studio 2010\Projects\MediaQuery\MediaQuery\bin\Debug\MediaQuery.pdb
+H:\Data\Visual Studio 2010\Projects\MediaQuery\MediaQuery\obj\x86\Debug\MediaQuery.Form1.resources
+H:\Data\Visual Studio 2010\Projects\MediaQuery\MediaQuery\obj\x86\Debug\MediaQuery.Properties.Resources.resources
+H:\Data\Visual Studio 2010\Projects\MediaQuery\MediaQuery\obj\x86\Debug\MediaQuery.csproj.GenerateResource.Cache
+C:\Users\Ryan\Desktop\MediaQuery.2014.04.17.with histogram\MediaQuery\obj\x86\Debug\MediaQuery.exe
+C:\Users\Ryan\Desktop\MediaQuery.2014.04.17.with histogram\MediaQuery\obj\x86\Debug\MediaQuery.pdb
+C:\Users\Ryan\Desktop\MediaQuery.2014.04.17.with histogram\MediaQuery\bin\Debug\MediaQuery.exe
+C:\Users\Ryan\Desktop\MediaQuery.2014.04.17.with histogram\MediaQuery\bin\Debug\MediaQuery.pdb
+C:\Users\Ryan\Desktop\MediaQuery.2014.04.17.with histogram\MediaQuery\obj\x86\Debug\MediaQuery.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Desktop\MediaQuery.2014.04.17.with histogram\MediaQuery\obj\x86\Debug\MediaQuery.Form1.resources
+C:\Users\Ryan\Desktop\MediaQuery.2014.04.17.with histogram\MediaQuery\obj\x86\Debug\MediaQuery.Properties.Resources.resources
+C:\Users\Ryan\Desktop\MediaQuery.2014.04.17.with histogram\MediaQuery\obj\x86\Debug\MediaQuery.csproj.GenerateResource.Cache
+C:\Users\Nittoor\Desktop\MediaQuery.2014.05.03 very promising code\MediaQuery\obj\x86\Debug\MediaQuery.exe
+C:\Users\Nittoor\Desktop\MediaQuery.2014.05.03 very promising code\MediaQuery\obj\x86\Debug\MediaQuery.pdb
+C:\Users\Nittoor\Desktop\MediaQuery.2014.05.03 very promising code\MediaQuery\bin\Debug\MediaQuery.exe
+C:\Users\Nittoor\Desktop\MediaQuery.2014.05.03 very promising code\MediaQuery\bin\Debug\MediaQuery.pdb
+C:\Users\Nittoor\Desktop\MediaQuery.2014.05.03 very promising code\MediaQuery\obj\x86\Debug\MediaQuery.csprojResolveAssemblyReference.cache
+C:\Users\Nittoor\Desktop\MediaQuery.2014.05.03 very promising code\MediaQuery\obj\x86\Debug\MediaQuery.Form1.resources
+C:\Users\Nittoor\Desktop\MediaQuery.2014.05.03 very promising code\MediaQuery\obj\x86\Debug\MediaQuery.Properties.Resources.resources
+C:\Users\Nittoor\Desktop\MediaQuery.2014.05.03 very promising code\MediaQuery\obj\x86\Debug\MediaQuery.csproj.GenerateResource.Cache
+C:\Users\User1\Desktop\csci576\0505\MediaQuery.2014.05.03 very promising code\MediaQuery\obj\x86\Debug\MediaQuery.exe
+C:\Users\User1\Desktop\csci576\0505\MediaQuery.2014.05.03 very promising code\MediaQuery\obj\x86\Debug\MediaQuery.pdb
+C:\Users\User1\Desktop\csci576\0505\MediaQuery.2014.05.03 very promising code\MediaQuery\bin\Debug\MediaQuery.exe
+C:\Users\User1\Desktop\csci576\0505\MediaQuery.2014.05.03 very promising code\MediaQuery\bin\Debug\MediaQuery.pdb
+C:\Users\User1\Desktop\csci576\0505\MediaQuery.2014.05.03 very promising code\MediaQuery\obj\x86\Debug\MediaQuery.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\csci576\0505\MediaQuery.2014.05.03 very promising code\MediaQuery\obj\x86\Debug\MediaQuery.Form1.resources
+C:\Users\User1\Desktop\csci576\0505\MediaQuery.2014.05.03 very promising code\MediaQuery\obj\x86\Debug\MediaQuery.Properties.Resources.resources
+C:\Users\User1\Desktop\csci576\0505\MediaQuery.2014.05.03 very promising code\MediaQuery\obj\x86\Debug\MediaQuery.csproj.GenerateResource.Cache
